@@ -41,7 +41,6 @@ haproxy.sh
 - Auto Install haproxy for Shadowsocks Server
 - https://shadowsocks.be/10.html
 
-
-
+.
 
 Copyright (C) 2014-2018 Teddysun
