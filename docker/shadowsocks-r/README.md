@@ -6,9 +6,6 @@ It is a port of [shadowsocks][2] created by @clowwindy maintained by @breakwa11 
 Docker images are built for quick deployment in various computing cloud providers.
 For more information on docker and containerization technologies, refer to [official document][3].
 
-
-
-
 ## Prepare the host
 
 If you need to install docker by yourself, follow the [official installation guide][4].
